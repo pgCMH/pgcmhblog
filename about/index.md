@@ -3,8 +3,6 @@ layout: page
 title: About pgCMH
 excerpt: "pgCMH is the Columbus, OH based PostgreSQL User Group."
 modified: 2017-01-25T09:45:00-04:00
-image:
-  feature: CMH_at_night.jpg
 ---
 
 pgCMH is a PostgreSQL User Group based in Columbus, OH. It is open to any person interested in PostgreSQL regardless of their current familiarity or experience with it.

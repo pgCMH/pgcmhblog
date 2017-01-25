@@ -3,17 +3,14 @@
 - title: About
   url: /about/
 
-- title: Articles
-  url: /articles/
+- title: Posts
+  url: /posts/
 
 - title: Meeting Schedule
   url: http://www.meetup.com/postgresCMH/
 
 - title: Slack (#pgcmh)
   url: https://postgres-slack.herokuapp.com/
-
-- title: Twitter
-  url: http://twitter.com/pgCMH
 
 - title: Search
   url: /search/

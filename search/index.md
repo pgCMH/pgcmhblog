@@ -4,8 +4,6 @@ title: "Search"
 date: 
 modified:
 excerpt:
-image:
-  feature: CMH_at_night.jpg
 search_omit: true
 sitemap: false
 ---

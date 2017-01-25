@@ -19,6 +19,7 @@ gems:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
+  - jekyll-twitter-plugin
 
 kramdown:
   input: GFM
@@ -36,7 +37,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Douglas J Hunley
+  name: pgCMH
   avatar: bio-photo.jpg
   email: doug.hunley@gmail.com
   disqus-shortname:
