@@ -2,6 +2,8 @@
 layout: page
 title: Sample Articles
 excerpt: "An archive of articles sorted by date."
+image:
+  feature: CMH_at_night.jpg
 search_omit: true
 ---
 

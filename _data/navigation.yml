@@ -6,11 +6,14 @@
 - title: Articles
   url: /articles/
 
-- title: Blog
-  url: /blog/
+- title: Meeting Schedule
+  url: http://www.meetup.com/postgresCMH/
 
-- title: Theme Setup
-  url: /theme-setup/
+- title: Slack (#pgcmh)
+  url: https://postgres-slack.herokuapp.com/
+
+- title: Twitter
+  url: http://twitter.com/pgCMH
 
 - title: Search
   url: /search/

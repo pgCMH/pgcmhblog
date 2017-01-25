@@ -5,7 +5,7 @@ date:
 modified:
 excerpt:
 image:
-  feature:
+  feature: CMH_at_night.jpg
 search_omit: true
 sitemap: false
 ---
