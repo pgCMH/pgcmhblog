@@ -1,11 +1,12 @@
 # Site wide configuration
 
+destination: /Users/doug/repos/mine/pgcmh.github.io
 title: pgCMH
 locale: en_US
 description: Home of the Columbus, OH based PostgreSQL User Group
 logo: site-logo.png
 search: true
-url: http://localhost:4000
+url: https://pgcmh.github.io
 
 # Jekyll configuration
 
