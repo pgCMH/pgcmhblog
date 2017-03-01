@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: March mtg: intro to streaming replication
+title: March mtg - intro to streaming replication
 modified: 2017-03-01 12:46:42
 categories: articles
 author: doug_hunley
