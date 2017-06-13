@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Of Hippos, Whales, and Elephants: Crunchy Postgres on Docker
+title: Of Hippos, Whales, and Elephants - Crunchy Postgres on Docker
 modified: 2017-06-13 10:21:34
 categories: articles
 author: doug_hunley
@@ -22,11 +22,11 @@ Topic
 The talk excerpt:
 
 > Containerization has captured the interest of developers, engineers, and business people everywhere. While BSD Jails and cgroups are established technologies in the open source world, it is the Docker project that has grabbed recent attention. Terms like stateless applications and microservices are now almost as ubiquitous as cloud computing, or virtualization before it. It is natural to wonder what, if anything, Docker offers to PostgreSQL deployment and administration.
- 
+
 > Crunchy Data Solutions has built one of the best recognized Open Source PostgreSQL on Docker suites (https://github.com/CrunchyData/crunchy-containers), containing everything you need to run a PostgreSQL database solution - complete with replication, backups, failover, and appropriate monitoring - on Docker, Kubernetes, or OpenShift.
- 
+
 > No specific knowledge of Docker containers is assumed for this talk. We will briefly discuss where the technology comes from, and how to get up and running with Docker; before diving into the really gory bits like how a Dockerfile is written, and where all the data is actually stored. Before we're through we'll see how quickly new nodes can be brought online with containers and streaming replication, and we'll see what we can learn about failover from other highly distributed systems. We'll even talk through logging and monitoring strategies.
- 
+
 > Lastly we'll discuss what all of this work really does for us as technologists. We'll get an overview of the many Platform as a Service offerings that leverage containers, and try to predict some things about where application and data center design are going. Hopefully, containerization inspires us to explore the ever growing feature set of our favorite database, PostgreSQL, in new and different ways.
 
 Phil is a Senior Software Engineer at Crunchy Data Solutions where he works alongside leading PostgreSQL experts on a wide variety of research and development topics. He is interested in combining a DevOps philosophy with database administration, and has spoken on topics including Postgres on Docker and Full Text Search in Postgres at national PG conferences. Phil can be found extolling the virtues of the world's most advanced open source database as a member of pgMKE: the Milwaukee Postgres User's Group.
