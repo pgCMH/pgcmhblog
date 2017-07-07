@@ -24,4 +24,5 @@ As a users' group, pgCMH provides its members with the following services:
 * a mailing list
 * an online presence
 * a Twitter account
+* an Instagram account
 * a Slack channel
