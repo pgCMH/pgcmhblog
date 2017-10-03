@@ -12,7 +12,7 @@ comments: true
 share: true
 ---
 
-The Oct meeting will be held at 18:00 EST on Tues, the 24<sup>th</sup>. Once again, we will be holding the meeting in the community space at CoverMyMeds. Please RSVP on [MeetUp](https://www.meetup.com/postgresCMH/events/237322157/) so we have an idea on the amount of food needed.
+The Oct meeting will be held at 18:00 EST on Tues, the 24<sup>th</sup>. Once again, we will be holding the meeting in the community space at CoverMyMeds. Please RSVP on [MeetUp](https://www.meetup.com/postgresCMH/events/243676428/) so we have an idea on the amount of food needed.
 
 Topic
 -----
