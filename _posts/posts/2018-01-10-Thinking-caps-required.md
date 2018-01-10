@@ -12,7 +12,7 @@ comments: true
 share: true
 ---
 
-The Jan meeting will be held at 18:00 EST on Tues, the 23<sup>rd</sup>. Once again, we will be holding the meeting in the community space at CoverMyMeds. Please RSVP on [MeetUp](https://www.meetup.com/postgresCMH/events/237322157/) so we have an idea on the amount of food needed.
+The Jan meeting will be held at 18:00 EST on Tues, the 23<sup>rd</sup>. Once again, we will be holding the meeting in the community space at CoverMyMeds. Please RSVP on [MeetUp](https://www.meetup.com/postgresCMH/events/bjbmcmyxcbfc/) so we have an idea on the amount of food needed.
 
 Topic
 -----
