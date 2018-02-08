@@ -12,9 +12,6 @@ comments: true
 share: true
 ---
 
-When
-----
-
 The Feb meeting will be held at **18:00 EST on Tues, the 27<sup>th</sup>**. Once again, we will be holding the meeting in the community space at CoverMyMeds. *Please RSVP on [MeetUp](https://www.meetup.com/postgresCMH/events/245751222/) so we have an idea on the amount of food needed.*
 
 What
