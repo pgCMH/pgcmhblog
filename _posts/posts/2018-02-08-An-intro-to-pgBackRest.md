@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: An intro to pg_backrest
+title: An intro to pgBackRest
 modified: 2018-02-08 08:49:38
 categories: articles
 author: doug_hunley
@@ -31,9 +31,9 @@ CoverMyMeds has graciously agreed to validate your parking if you use their gara
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m0!3m2!1sen!2sus!4v1488389756992!6m8!1m7!1sLjB1moOcFPJm5UT4cdhnig!2m2!1d39.95415440342131!2d-83.0050335305906!3f321.1273220824533!4f-4.543767100369678!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
- **You can safely ignore any sign saying to not park in the garage as long as it's after 17:30 when you arrive.** 
- 
-_Park in any space that is not marked '24 hour reserved'._  
+ **You can safely ignore any sign saying to not park in the garage as long as it's after 17:30 when you arrive.**
+
+_Park in any space that is not marked '24 hour reserved'._
 
 Once parked, take the elevator/stairs to the 3<sup>rd</sup> floor to reach the Miranova lobby. Once in the lobby, the elevator bank is in the back (West side) of the building. Take a left and walk down the hall until you see the elevator bank on your right. Grab an elevator up to the 11<sup>th</sup> floor. _(If the elevator won't let you pick the 11<sup>th</sup> floor, contact Doug or CJ (info below))._ Once you exit the elevator, look to your left and right; one side will have visible cubicles, the other won't. Head to the side _without cubicles_. You're now in the community space:
 
