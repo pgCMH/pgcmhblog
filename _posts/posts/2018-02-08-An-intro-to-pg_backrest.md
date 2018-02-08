@@ -1,8 +1,8 @@
 ---
 layout: post
 published: true
-title: Sample
-modified: YYYY
+title: An intro to pg_backrest
+modified: 2018-02-08 08:49:38
 categories: articles
 author: doug_hunley
 tags:
@@ -15,12 +15,12 @@ share: true
 When
 ----
 
-The April meeting will be held at **18:00 EST on Tues, the 25<sup>th</sup>**. Once again, we will be holding the meeting in the community space at CoverMyMeds. *Please RSVP on [MeetUp](https://www.meetup.com/postgresCMH/events/237322157/) so we have an idea on the amount of food needed.*
+The Feb meeting will be held at **18:00 EST on Tues, the 27<sup>th</sup>**. Once again, we will be holding the meeting in the community space at CoverMyMeds. *Please RSVP on [MeetUp](https://www.meetup.com/postgresCMH/events/245751222/) so we have an idea on the amount of food needed.*
 
 What
 ----
 
-CoverMyMeds' very own [CJ](https://www.linkedin.com/in/cj-estel-21383614/) will be presenting this month. He's going to tell us all about how CoverMyMeds uses [Consul](https://www.consul.io/) to assist with scaling PostgreSQL and maintaining the high availability of the database.
+CoverMyMeds' very own [Andy](https://www.linkedin.com/in/andy-thissen-3a70174/) will be presenting this month. Andy is a MS SQL Server DBA (but we won't hold that against him) who is an enthusiastic PostgreSQL convert. He's going to tell us all about [pgBackRest](http://pgbackrest.org/) and how it's the best PostgreSQL backup tool around :) This is Andy's first time presenting to the group, so please come out and support him.
 
 
 
