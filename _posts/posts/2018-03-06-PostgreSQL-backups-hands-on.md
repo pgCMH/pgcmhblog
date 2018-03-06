@@ -1,8 +1,8 @@
 ---
 layout: post
 published: true
-title: Sample
-modified: YYYY
+title: PostgreSQL backups hands-on
+modified: 2018-03-06 10:22:29
 categories: articles
 author: doug_hunley
 tags:
@@ -12,12 +12,16 @@ comments: true
 share: true
 ---
 
-The April meeting will be held at **18:00 EST on Tues, the 25<sup>th</sup>**. Once again, we will be holding the meeting in the community space at CoverMyMeds. *Please RSVP on [MeetUp](https://www.meetup.com/postgresCMH/events/237322157/) so we have an idea on the amount of food needed.*
+**BRING YOUR LAPTOP**
+
+The March meeting will be held at **18:00 EST on Tues, the 27<sup>th</sup>**. Once again, we will be holding the meeting in the community space at CoverMyMeds. *Please RSVP on [MeetUp](https://www.meetup.com/postgresCMH/events/237322157/) so we have an idea on the amount of food needed.*
 
 What
 ----
 
-CoverMyMeds' very own [CJ](https://www.linkedin.com/in/cj-estel-21383614/) will be presenting this month. He's going to tell us all about how CoverMyMeds uses [Consul](https://www.consul.io/) to assist with scaling PostgreSQL and maintaining the high availability of the database.
+We had a lot of interest and requests for a deeper dive during last month's presentation on pgBackRest by Andy, so this month we're continuing the topic and setting a lab for everyone to use! We're going to walk through both logical and physical backups with everyone actually executing them on their own lab instance. We're then going to delve into recovery and have everyone tackle that as well. Finally, we'll have everyone switch to pgBackRest to see how it eases and automates the backup and recovery process that everyone just learned/used.
+
+Should be an informative session!
 
 
 
