@@ -12,7 +12,7 @@ comments: true
 share: true
 ---
 
-The May meeting will be held at **18:00 EST on Tues, the 22<sup>nd</sup>**. Once again, we will be holding the meeting in the community space at CoverMyMeds. *Please RSVP on [MeetUp](https://www.meetup.com/postgresCMH/events/237322157/) so we have an idea on the amount of food needed.*
+The May meeting will be held at **18:00 EST on Tues, the 22<sup>nd</sup>**. Once again, we will be holding the meeting in the community space at CoverMyMeds. *Please RSVP on [MeetUp](https://www.meetup.com/postgresCMH/events/bjbmcmyxhbdc) so we have an idea on the amount of food needed.*
 
 **BRING YOUR LAPTOP**
 
