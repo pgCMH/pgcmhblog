@@ -17,7 +17,7 @@ The August meeting will be held at **18:00 EST on Tues, the 27<sup>th</sup>**. O
 What
 ----
 
-Seal Software'is very own [Arlette](https://www.linkedin.com/in/arlette-garay-28075a2/) will be presenting this month. ShHe's going to tell us all about transaction wraparound: what it is, why it happens, why you should care about, and how to prevent it. This talk will touch on MVCC, VACUUM FREEZE, and tuning autovacuum.
+Seal Software'is very own [Arlette](https://www.linkedin.com/in/arlette-garay-28075a2/) will be presenting this month. She's going to tell us all about transaction wraparound: what it is, why it happens, why you should care about, and how to prevent it. This talk will touch on MVCC, VACUUM FREEZE, and tuning autovacuum.
 
 
 
