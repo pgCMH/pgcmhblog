@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Foreign Data Wrappers: Accessing External Data from a PostgreSQL database
+title: Foreign Data Wrappers Accessing External Data from a PostgreSQL database
 modified: 2020-03-03 13:06:41
 categories: articles
 author: doug_hunley
