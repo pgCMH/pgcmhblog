@@ -1,6 +1,6 @@
 # Site wide configuration
 
-destination: /Users/doug/repos/pgcmh.github.io
+destination: /home/doug/repos/pgcmh.github.io
 title: pgCMH
 locale: en_US
 description: Home of the Columbus, OH based PostgreSQL User Group
